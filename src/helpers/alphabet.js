@@ -2,107 +2,107 @@
 const alphabet = [
     {
         "letter": "a",
-        "code": "alpha"
+        "code": "Adam"
     },
     {
         "letter": "b",
-        "code": "bravo"
+        "code": "Boy"
     },
     {
         "letter": "c",
-        "code": "charlie"
+        "code": "Charles"
     },
     {
         "letter": "d",
-        "code": "delta"
+        "code": "David"
     },
     {
         "letter": "e",
-        "code": "echo"
+        "code": "Edward"
     },
     {
         "letter": "f",
-        "code": "foxtrot"
+        "code": "Frank"
     },
     {
         "letter": "g",
-        "code": "golf"
+        "code": "George"
     },
     {
         "letter": "h",
-        "code": "hotel"
+        "code": "Henry"
     },
     {
         "letter": "i",
-        "code": "india"
+        "code": "Ida"
     },
     {
         "letter": "j",
-        "code": "juliet"
+        "code": "John"
     },
     {
         "letter": "k",
-        "code": "kilo"
+        "code": "King"
     },
     {
         "letter": "l",
-        "code": "lima"
+        "code": "Lincoln"
     },
     {
         "letter": "m",
-        "code": "mike"
+        "code": "Mary"
     },
     {
         "letter": "n",
-        "code": "november"
+        "code": "Nora"
     },
     {
         "letter": "o",
-        "code": "oscar"
+        "code": "Ocean"
     },
     {
         "letter": "p",
-        "code": "papa"
+        "code": "Paul"
     },
     {
         "letter": "q",
-        "code": "quebec"
+        "code": "Queen"
     },
     {
         "letter": "r",
-        "code": "romeo"
+        "code": "Robert"
     },
     {
         "letter": "s",
-        "code": "sierra"
+        "code": "Sam"
     },
     {
         "letter": "t",
-        "code": "tango"
+        "code": "Tom"
     },
     {
         "letter": "u",
-        "code": "uniform"
+        "code": "Union"
     },
     {
         "letter": "v",
-        "code": "victor"
+        "code": "Victor"
     },
     {
         "letter": "w",
-        "code": "whiskey"
+        "code": "William"
     },
     {
         "letter": "x",
-        "code": "xray"
+        "code": "Xray"
     },
     {
         "letter": "y",
-        "code": "yankee"
+        "code": "Young"
     },
     {
         "letter": "z",
-        "code": "zulu"
+        "code": "Zebra"
     },
 ]
 
