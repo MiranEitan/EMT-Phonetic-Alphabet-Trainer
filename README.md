@@ -1,6 +1,8 @@
-# NATO/IRSA Alphabet Trainer
+# Police/EMT Alphabet Trainer
 
-A simple, easy to use trainer for learning the NATO phonetic alphabet. Uses ReactJS and Redux for core functionality. Uses React-Pose for some animations.
+A simple, easy to use trainer for learning the EMT phonetic alphabet. Uses ReactJS and Redux for core functionality. Uses React-Pose for some animations.
+
+All credit to cipherbeta for their original NATO trainer [Link located below]
 
 [Check out a working version here.](https://cipherbeta.github.io/Phonetic-Alphabet-Trainer/)
 
